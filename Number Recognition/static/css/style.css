@@ -1,0 +1,44 @@
+#grad {background-image: linear-gradient(-90deg, #570d0d, #570d0d);}
+
+.ti {
+font-size: 20px;
+color: white;
+}
+
+.ti2 {
+font-size: 40px;
+color: white;
+}
+
+.cbtn{
+  background-color: #570d0d;
+  font-size: 15px;
+  font-weight: bold;
+  color: white;
+  border: 2px solid #570d0d;
+  transition-duration: 0.4s;
+  border-radius: 18px;
+  text-align: center;
+  width: 100px;
+  height: 40px;
+}
+
+.divider{
+    width:70px;
+    height:auto;
+    display:inline-block;
+}
+
+.divider2{
+    width:20px;
+    height:auto;
+    display:inline-block;
+}
+
+.cbtn:hover{
+  background-color: white;
+  color: #570d0d;
+}
+
+
+
